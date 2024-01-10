@@ -23,7 +23,7 @@
 
 **Line Endings :** If working on windows OS ensure git is installed with `Checkout Windows-style, commit Unix-style` option or `core.autocrlf` set to *true* in git config. If working on Unix based Linux or MacOS ensure git is installed with `Checkout as-is, commit Unix-style` option or `core.autocrlf` set to *input* in git config
 
-**GitHub Actions :** Forks of the repository will inherit the automations performed in the Azure SDK for .NET repository as GitHub Actions.  It is reccommended that you explicitly [disable](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#managing-github-actions-permissions-for-your-repository) these Actions to prevent errors and unwanted automation.
+**GitHub Actions :** Forks of the repository will inherit the automations performed in the Azure SDK for .NET repository as GitHub Actions.  It is recommended that you explicitly [disable](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#managing-github-actions-permissions-for-your-repository) these Actions to prevent errors and unwanted automation.
 
 ----
 
